@@ -1,0 +1,54 @@
+body {
+	background-image: url(images/hardwoodbackground.jpg);
+}
+h1.headtext {
+	text-align: center;
+	border-style: solid;
+	border-color: dodgerblue;
+	background-color: dodgerblue;
+}
+
+h2 {
+	color: dodgerblue;
+	text-align: center;
+}
+p 	{
+	font-size: 22px;
+}
+.pageBorder {
+	width: 940px;
+	margin: 0 auto;
+	background-color: RGBA(71,66,42,.4);
+	padding:20px;
+}
+
+.navigation {
+	width: 940px;
+	border-style: solid;
+	border-color: dodgerblue;
+	background-color: dodgerblue;
+	margin: 0;
+	font-size: 22px;
+	text-align: center;
+	padding: 10px 40px 10px 40px;
+}
+
+nav.ul {
+	text-align: center;
+	list-style-type: none;
+
+}
+
+nav.li {
+	display: inline-flex;
+	float: none;
+	font-family: monospace;
+	font-size: 20px;
+	letter-spacing: 2px;
+	list-style-type: none;
+
+}
+
+.logo {	padding: 40px;
+	align-items: center;
+}
