@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 	<head lang="en">
@@ -29,12 +30,9 @@
 		<h2> The Goal for &ltdesignByNinja&gt</h2>
 		<p>The main goal for this website is to serve as a professional business card that can be referenced to
 			when meeting potential clients or employers. The website will also serve a secondary goal in allowing me
-			to experiment with design ideas and coding techniques.
+			to experiment with design ideas and coding techniques. </p>
 		<div class="logo">
 			<img src="images/NinjaDesign.png" alt="Ninja Logo"
 		</div>
-		</p>
-		</div>
 	</body>
 </html>
-
