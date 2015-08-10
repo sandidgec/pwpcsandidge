@@ -14,7 +14,8 @@
 				<li class="nav"><a href="index.php">Home</a></li>
 				<li><a href="contact.php">Contact</a></li>
 				<li><a href="about.php">About</a></li>
-				<li><a href="portfolio.php">Portfolio</a> </li>
+				<li><a href="portfolio.php">Portfolio</a>
+				<li><a href="wireframes.php">Wireframes</a> </li>
 			</ul>
 		</div>
 		<h2> Ninja Purpose  </h2>
