@@ -12,7 +12,7 @@
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
 
-		<link type="text/css" href="css/mystyle.css" rel="stylesheet"/>
+		<link type="text/css" href="../lib/css/mystyle.css" rel="stylesheet"/>
 
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -38,7 +38,7 @@
 	<body>
 		<div class="container">
 			<h3>design by Ninja Wireframes</h3>
-			<img src="images/ninjaWireframeHome.png" alt="Wireframe Home>"
+			<img src="../lib/images/ninjaWireframeHome.png" alt="Wireframe Home>"
 		</div>
 	</body>
 </html>

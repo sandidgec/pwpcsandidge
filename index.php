@@ -15,7 +15,7 @@
 				<li><a href="contact.php">Contact</a></li>
 				<li><a href="about.php">About</a></li>
 				<li><a href="portfolio.php">Portfolio</a>
-				<li><a href="wireframes.php">Wireframes</a> </li>
+				<li><a href="pages/wireframes.php">Wireframes</a> </li>
 			</ul>
 		</div>
 		<h2> Ninja Purpose  </h2>
@@ -52,11 +52,11 @@
 		links to outside work.</p>
 
 		<h2> SiteMap</h2>
-		<img src="images/sitemapdesignbyninja.png" alt="Sitemap>"
+		<img src="lib/images/sitemapdesignbyninja.png" alt="Sitemap>"
 
 
 		<div class="logo">
-			<img src="images/NinjaDesign.png" alt="Ninja Logo"
+			<img src="lib/images/NinjaDesign.png" alt="Ninja Logo"
 		</div>
 	</body>
 </html>
