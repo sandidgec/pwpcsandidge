@@ -37,8 +37,9 @@
 	</head>
 	<body>
 		<div class="container">
-			<h3>design by Ninja Wireframes</h3>
+			<h3>Home Wireframe</h3>
 			<img src="../lib/images/ninjaWireframeHome.png" alt="Wireframe Home>"
-		</div>
+			<h3> Portfolio Wireframe</h3>
+			<img src="../lib/images/ninjaWireframePortfolio.png" alt="Wireframe Portfolio>"
 	</body>
 </html>
