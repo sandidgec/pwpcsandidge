@@ -15,8 +15,8 @@ Good job on Milestone 2. Your code is looking good, and all requirements have be
 Your mobile wireframes are missing, but overall great job on Milestone 3. Your M.S. passes at Tier II. 
  
 ##Suggestions
-- Explore gallery plugins. [Swipebox]("http://brutaldesign.github.io/swipebox/")
-- Take a look at Bootstrap's [Carousel]("http://getbootstrap.com/javascript/#carousel"), and [Navbar]("http://getbootstrap.com/components/#navbar").
+- Explore gallery plugins. [Swipebox](http://brutaldesign.github.io/swipebox/)
+- Take a look at Bootstrap's [Carousel](http://getbootstrap.com/javascript/#carousel), and [Navbar](http://getbootstrap.com/components/#navbar).
 - Look into creating your ninja star shapes using SVG. You can also incorporate text inside SVG images.
 
 ##Corrections
