@@ -1,57 +1,93 @@
+html { display: flex;}
 
+body { width: 100%;
+	background: gainsboro;
+	background-size: auto 400px;
+	background-position: 0% 0%;
+}
 
+.logo {
+	display: inline-block;
+}
 
-h1.headtext {
+.site {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+.nav>li>a {
+	color: red;
+	font-size: 1.4em;
+	padding-right: 40px;
+}
+
+p {
+
+}
+
+.shop {
 	text-align: center;
-	border-style: solid;
-	border-color: dodgerblue;
-	background-color: dodgerblue;
+	padding-top: 10px;
+	font-size: 3em;
 }
 
-h2 {
-	color: dodgerblue;
-	text-align: center;
-}
-p 	{
-	font-size: 22px;
-}
-.pageBorder {
-	width: 940px;
-	margin: 0 auto;
-	background-color: RGBA(71,66,42,.4);
-	padding:20px;
+.textbox {
+	margin-top: 350px;
+	background-color: rgba(171,166,166,.95);
 }
 
-.navigation {
-	width: inherit;
-	border-style: solid;
-	border-color: black;
+.row {
+	margin-top: 700px;
+
+}
+
+.col-md-3 {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.description {
+	padding: 40px;
+	font-size: 1.3em;
+}
+
+.site-content {
+	flex: 1;
+}
+
+footer {
+	border: solid;
 	background-color: gray;
-	color: dodgerblue;
-	margin: 0;
-	font-size: 22px;
-	text-align: center;
-	padding: 10px 40px 10px 40px;
 }
 
-nav.ul {
-	text-align: center;
-	list-style-type: none;
-
+form {
+	padding-top: 20px;
+	padding-right: 20px;
+	border: solid;
+	margin: 20px;
 }
 
-nav.li {
-	display: inline-flex;
-	float: none;
-	font-family: monospace;
-	font-size: 20px;
-	letter-spacing: 2px;
-	list-style-type: none;
-
+.right-divider {
+	border-right: solid;
 }
 
-.logo {	padding: 40px;
-	align-items: center;
+.pulls-right {
+	text-align: right;
 }
 
+.footer-nav>li>a {
+	color: red;
+}
+
+.footer-nav>li>a:hover {
+	color: #000000;
+}
+
+.social-media {
+	color: red;
+	font-size: 2.2em;
+	padding-top: 10px;
+	padding-right: 20px;
+}
 
