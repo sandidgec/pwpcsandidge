@@ -12,7 +12,12 @@
 <!-- font awesome library -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-<link type="text/css" href="../lib/css/mystyle.css" rel="stylesheet"/>
+<link type="text/css" href="lib/css/mystyle.css" rel="stylesheet"/>
+<link type="text/css" href="lib/css/sss.css" rel="stylesheet" media="all"/>
+
+<!-- Google Fonts-->
+<link href='//fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -29,6 +34,14 @@
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
 <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
 <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/additional-methods.min.js"></script>
+
+<!-- Slider JS -->
+<script type="text/javascript" src="lib/js/sss.js"></script>
+
+<script> jQuery(function($) {
+		$('.slider').sss();
+	});
+</script>
 
 <!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
