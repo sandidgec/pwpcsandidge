@@ -10,9 +10,9 @@
 			</header>
 
 		<div class="slider">
-				<a href="pages/portfolio.php"><img class="img-responsive slideone" src="./lib/images/slideone1.png"  alt="Slide One"></a>
-				<a href="pages/services.php"><img class="img-responsive slideone" src="./lib/images/slideone2.png"  alt="Slide Two"></a>
-				<a href="pages/contact.php"><img class="img-responsive slideone" src="./lib/images/slideone3.png"  alt="Slide Three"></a>
+				<a href="pages/portfolio.php"><img class="img-responsive slideone" src="./lib/images/portfolioSlide.png"  alt="Slide One"></a>
+				<a href="pages/services.php"><img class="img-responsive slideone" src="./lib/images/servicesSlide.png"  alt="Slide Two"></a>
+				<a href="pages/contact.php"><img class="img-responsive slideone" src="./lib/images/contactSlide.png"  alt="Slide Three"></a>
 		</div>
 
 			</div>
