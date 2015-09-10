@@ -11,4 +11,3 @@
 		<a href="https://www.facebook.com/newmexicoapproved?fref=ts"><i class="fa fa-facebook-square social-media"></i></a>
 	</section>
 </div>
-

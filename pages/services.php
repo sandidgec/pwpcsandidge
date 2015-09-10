@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<?php require_once ("../php/head-utils.php"); ?>
+		<?php require_once("../php/head-utils.php"); ?>
 
 		<link type="text/css" href="../lib/css/mystyle.css" rel="stylesheet"/>
 	</head>
@@ -16,7 +16,7 @@
 						</button>
 					</div>
 
-					<div class="navbar-left">
+					<div class="navbar-left dbntext">
 						<a href="../index.php"><h4>design by Ninja</h4></a>
 					</div>
 
@@ -29,10 +29,18 @@
 				</nav>
 			</header>
 
-			<div class="services">
-				<img class="img-responsive center-block slideone" src="../lib/images/comicServices.png"  alt="Services Graphic"></a>
+			<div class="services center-block">
+				<img class="img-responsive hidden-xs hidden-sm center-block" src="../lib/images/comicServices.png" alt="Services Graphic"></a>
 			</div>
 
+			<div class="mobile col-xs-12 serviceset">
+				<img class="img-responsive hidden-md hidden-lg" src="../lib/images/services.svg" alt="button one">
+				<img class="img-responsive hidden-md hidden-lg" src="../lib/images/webdesign.svg" alt="button two">
+				<img class="img-responsive hidden-md hidden-lg" src="../lib/images/appdev.svg" alt="button three">
+				<img class="img-responsive hidden-md hidden-lg" src="../lib/images/skills.svg" alt="button four">
+			</div>
+
+</div>
 		<footer>
 			<?php require_once("../php/footer.php"); ?>
 		</footer>

@@ -16,7 +16,7 @@
 						</button>
 					</div>
 
-					<div class="navbar-left">
+					<div class="navbar-left dbntext">
 						<a href="../index.php"><h4>design by Ninja</h4></a>
 					</div>
 
@@ -29,9 +29,27 @@
 				</nav>
 			</header>
 
-			<h2> Portfolio Here</h2>
-			<footer>
-				<?php require_once("../php/footer.php"); ?>
-			</footer>
+			<h2 class="porttext">Portfolio</h2>
+
+			<div class="portfolioimages">
+				<a href="#"><img class="img-responsive center-block" src="../lib/images/shotpunctuality.png" alt="Slide One"></a>
+				<!--				<p class="moreinfo">Punctualityapp.com is the home base for a native mobile application that dynamically schedules your time in regards to navigation data.</p>-->
+				<a href="#"><img class="img-responsive center-block" src="../lib/images/shotinvtext.png" alt="Slide Two"></a>
+				<a href="#"><img class="img-responsive center-block" src="../lib/images/shotnmnp.png" alt="Slide Three"></a>
+				<a href="#"><img class="img-responsive center-block" src="../lib/images/shotnmapproved.png" alt="Slide Four"></a>
+			</div>
+
+			<!--			<div class="mobile col-xs-12 portfolioset">-->
+			<!--				<img class="img-responsive hidden-md hidden-lg" src="../lib/images/services.svg" alt="button one">-->
+			<!--				<img class="img-responsive hidden-md hidden-lg" src="../lib/images/webdesign.svg" alt="button two">-->
+			<!--				<img class="img-responsive hidden-md hidden-lg" src="../lib/images/appdev.svg" alt="button three">-->
+			<!--				<img class="img-responsive hidden-md hidden-lg" src="../lib/images/skills.svg" alt="button four">-->
+			<!--			</div>-->
+		</div>
+		<footer>
+			<?php require_once("../php/footer.php"); ?>
+		</footer>
+
+
 	</body>
 </html>

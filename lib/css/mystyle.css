@@ -19,15 +19,12 @@ body { width: 100%;
 	padding-right: 15px;
 }
 
-p {
-
+.serviceset {
+	margin-top: 10%;
 }
 
-.navbar-left {
-	width: 30%;
-}
 .navbar-left > a > h4  {
-	padding-left: 20%;
+	padding-left: 10%;
 	font-family: 'Indie Flower', cursive;
 	font-size: 2em;
 	color: #293d39;
@@ -37,11 +34,39 @@ p {
 	padding-right: 10px;
 }
 
-.slideone {
-	margin-left: 20%;
-	margin-right: 20%;
+.dbntext {
+	width: 50%;
 }
 
+.porttext {
+	color: #293d39;
+	font-family: 'Indie Flower', cursive;
+	font-size: 3em;
+}
+
+.slideone {
+	/*margin-left: 20%;*/
+	/*margin-right: 20%;*/
+	padding-top: 30px;
+}
+
+.center-block {
+	padding-bottom: 3%;
+}
+
+.moreinfo {
+	text-align: center;
+	color: #293d39;
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.5em;
+}
+
+.bottomslide {
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-top: 30px;
+	margin-bottom: 10%;
+}
 
 .row {
 	margin-top: 700px;
@@ -63,7 +88,7 @@ p {
 }
 
 .services {
-	margin-bottom: 5%;
+	margin-bottom: 1%;
 	margin-top: 2%;
 }
 
@@ -71,15 +96,40 @@ p {
 	flex: 1;
 }
 
+.contactform {
+	margin-top: 10%;
+}
+
+.ninjaone {
+	padding-top: 5%;
+	margin: 0 auto;
+	align-content: center;
+}
+
+.ninjatwo {
+	padding-top: 5%;
+	margin: 0 auto;
+	align-content: center;
+}
+
+.contact-box {
+	text-align: center;
+}
+
+
+.contacthere {
+	margin-bottom: 5%;
+}
+
+
 footer {
 	border: solid;
-	background-color: gray;
+	background-color: #293d39;
 }
 
 form {
 	padding-top: 20px;
 	padding-right: 20px;
-	border: solid;
 	margin: 20px;
 }
 
@@ -92,14 +142,20 @@ h2 {
 	border-right: solid;
 }
 
+
 .pulls-right {
 	text-align: right;
 }
 
+.sendbtn {
+	background-color: white;
+	border: solid .8px #CCC;
+}
+
 .footer-nav>li>a {
-	color: #293d39;
+	color: gainsboro;
 	font-family: 'Indie Flower', cursive;
-	font-size: 1.6em;
+	font-size: 1.4em;
 }
 
 .footer-nav>li>a:hover {
@@ -107,8 +163,8 @@ h2 {
 }
 
 .social-media {
-	color: #293d39;
-	font-size: 2em;
+	color: gainsboro;
+	font-size: 1.5em;
 	padding-top: 10px;
 	padding-right: 20px;
 }

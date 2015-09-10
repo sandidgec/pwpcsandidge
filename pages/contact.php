@@ -1,7 +1,9 @@
+<?php ?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<?php require_once ("../php/head-utils.php"); ?>
+		<?php require_once("../php/head-utils.php"); ?>
 
 		<link type="text/css" href="../lib/css/mystyle.css" rel="stylesheet"/>
 	</head>
@@ -16,7 +18,7 @@
 						</button>
 					</div>
 
-					<div class="navbar-left">
+					<div class="navbar-left dbntext">
 						<a href="../index.php"><h4>design by Ninja</h4></a>
 					</div>
 
@@ -29,10 +31,30 @@
 				</nav>
 			</header>
 
-			<h2> Contact Info Here </h2>
+			<div class="contactform">
 
-			<footer>
-				<?php require_once("../php/footer.php"); ?>
-			</footer>
+
+				<div class="col-sm-2 ninjaone hidden-sm hidden-xs">
+					<img src="../lib/images/smallNinja.png" alt="ninja logo">
+				</div>
+
+				<div class="col-sm-8">
+					<?php require_once("../php/emailform.php"); ?>
+				</div>
+
+				<div class="col-sm-2 ninjatwo center-block">
+					<img src="../lib/images/smallNinja.png" alt="ninja logo">
+				</div>
+
+			</div>
+
+		</div>
+		<h2 class="charles">charles@designbyNinja.com</h2>
+		<footer>
+			<?php require_once("../php/footer.php"); ?>
+		</footer>
 	</body>
 </html>
+
+
+

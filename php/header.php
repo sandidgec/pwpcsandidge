@@ -6,7 +6,7 @@
 		</button>
 	</div>
 
-	<div class="navbar-left">
+	<div class="navbar-left dbntext">
 		<a href="../index.php"><h4>design by Ninja</h4></a>
 	</div>
 
